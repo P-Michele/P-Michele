@@ -1,4 +1,4 @@
-Computer science student at the university of Camerino
+Computer science student at the University of Camerino
 
 CTF player obsessed with cybersecurity:
 
